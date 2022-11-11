@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.repo-item {
+  list-style-type: none;
+  height: 300px;
+  width: 200px;
+
+  margin: 20px;
+  background-color: #f8f8ff;
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logo {
+  height: 80px;
+  width: 80px;
+}
+.repo-title {
+  color: #e73959;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 20px;
+}
+.starts-container {
+  display: flex;
+  margin-top: 5px;
+}
+.small-logos {
+  height: 18px;
+  width: 18px;
+  margin: 5px;
+  margin-right: 10px;
+}
+.repo-des {
+  margin: 0px;
+  margin-top: 2px;
+  color: #1e293bl;
+  font-weight: 400;
+}

@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.filter-item {
+  list-style-type: none;
+  margin: 15px;
+  color: #0f172a;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  font-family: Roboto;
+  cursor: pointer;
+}
+.normal-btn {
+  color: #0f172a;
+  font-weight: bold;
+  font-family: Roboto;
+  padding: 7px;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 17px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+}
+.selected-btn {
+  color: #0284c7;
+  font-weight: bold;
+  font-family: Roboto;
+  padding: 7px;
+  background-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #0284c7;
+  border-radius: 20px;
+  font-size: 17px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+}
